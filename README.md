@@ -1,4 +1,4 @@
-# Afrinexa
+# Afrinexa-site
 
 Welcome to Afrinexa!
 
@@ -8,9 +8,5 @@ Afrinexa is a website built with HTML and CSS.
 - HTML5
 - CSS3
 
-## Features
-- Responsive website design
-- User-friendly interface
-
-## Author
-Afrinexa
+## Project Description
+A user-friendly website built with modern web technologies
